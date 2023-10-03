@@ -1,0 +1,158 @@
+!all  Lets go have some fun
+FC Name: Luke Toir
+Formup Location: 1DQ1-A
+Pap Type: Strategic
+Comms: Op 10 https://gnf.lt/Sy12pKS.html
+Doctrine: Jackdaw Fleet (Boosters > Scalpel / Kirin > Jackdaw > Keres / Hyena > Tackle)
+
+
+
+zbb3a3f3dnl46)
+
+
+!all Quick Adventure in and out 20 mins!!  :yayclod:
+
+!all Speed and Powah!
+
+!all The jackdaw is the most advanced type of cormorant.
+
+!all The jack is, according to my sources, whack.  We also have some reds to shoot at
+
+!all Lets go boys! Get in
+
+
+!all Mother delve is healing
+
+Need a blops & 5 asteros
+Capped 40
+
+FC Name: Xavindo Sirober
+Formup Location: 1DQ1-A
+Pap Type: Strategic
+Comms: Op 10 https://gnf.lt/g5jrVqZ.html
+Doctrine: Torp Bombers (Purifier > Hound > Astero)
+
+/usr/bin/php7.4-cli artisan
+
+ ps aux --sort -rss
+ kill 40157
+
+
+tidi = 100-[input_tidi]
+time_left(ms) = [current_time(real)]-[saved_end_time]
+
+new_time = ((time_left/100)*tidi)+time_left
+
+[00:53:48] JohnMonty > <url=showinfo:35833//1028390646976>LUA5-L - under construction (Tactically Armed Vanguard)</url>
+
+
+notification_id":1379941956,
+"sender_id":1000137,
+"sender_type":"corporation",
+    "text":
+        "allianceID: 1727758877\n
+        allianceLinkData:\n
+            - showinfo\n
+            - 16159\n
+            - 1727758877\n
+        allianceName: Northern Coalition.\n
+        armorPercentage: 7.526432421111218\n
+        charID: 181181255\n
+        corpLinkData:\n
+            - showinfo\n
+            - 2\n
+            - 739403251\n
+        corpName: Shiva\n
+        hullPercentage: 100.0\n
+        shieldPercentage: 6.2114136838036106e-09\n
+        solarsystemID: 30004767\n
+        structureID: &id001 1035489221747\n
+        structureShowInfoData:\n
+            - showinfo\n
+            - 37534\n
+            - *id001\n
+        structureTypeID: 37534\n",
+"timestamp":"2021-02-13T11:06:00Z",
+"type":"StructureUnderAttack",
+"gsf_entity_id":null,
+"gsf_entity_type":null,
+"gsf_token_id":null
+
+
+
+ John Python
+
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+    RewriteBase /
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+
+Welcome to coord :sun: Current Primaries :  M2- Gate Camp, Bubbles are in FC Hangar :siren:
+1DQ Const should be 4.0 ADM :siren:
+Stop Jammer/JB attacks :siren: :siren: ALL TIMERS ARE ON RC2 NOW :siren: -> left to add timer put in "abandoned" -> go to last page -> Structure Names have ARMOR: HULL: infront of them
+Meeting Notes & Important Docs: https://drive.google.com/drive
+
+
+
+
+
+
+[2021-03-01 01:27:14] production.ERROR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'node_id' cannot be null (SQL: insert into `campaign_systems` (`campaign_id`, `custom_campaign_id`, `system_id`, `node_id`, `updated_at`, `created_at`) values (90087, 1614555355873, 30004785, ?, 2021-03-01 01:27:14, 2021-03-01 01:27:14)) {"userId":91832,"exception":"[object] (Illuminate\\Database\\QueryException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'node_id' cannot be null (SQL: insert into `campaign_systems` (`campaign_id`, `custom_campaign_id`, `system_id`, `node_id`, `updated_at`, `created_at`) values (90087, 1614555355873, 30004785, ?, 2021-03-01 01:27:14, 2021-03-01 01:27:14)) at /homepages/28/d841558152/htdocs/eve/vendor/laravel/framework/src/Illuminate/Database/Connection.php:678)
+[stacktrace]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
